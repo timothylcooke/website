@@ -1,1 +1,1 @@
-https://nzsmartie.co.nz/2017/09/27/shimming-reactiveui-logger/
+[Shimming Reactiveui Logger](https://nzsmartie.co.nz/2017/09/27/shimming-reactiveui-logger/)
